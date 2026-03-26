@@ -18,6 +18,8 @@ This tool implements an ACP agent by using the official [Claude Agent SDK](https
 
 Learn more about the [Agent Client Protocol](https://agentclientprotocol.com/).
 
+https://github.com/user-attachments/assets/df5384ec-5c58-47f3-882c-4fc8d3c9bfe6
+
 ## Contribution Policy
 
 This project does not require a Contributor License Agreement (CLA). Instead, contributions are accepted under the following terms:
